@@ -27,6 +27,8 @@ public class C9_Denemeler {
 			
 			System.out.println(str1 + " "+ (sayi1+sayi2)+ sayi2 );
 			System.out.println(str1 + " " + ((sayi1+sayi2) + sayi2));
+			
+			//   
 		  
 		  
 		  
