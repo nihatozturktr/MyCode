@@ -22,7 +22,7 @@ public class C02 {
 			System.out.println("Emekli olabilirsin");
 
 		}
-
+		scan.close();
 	}
 
 }

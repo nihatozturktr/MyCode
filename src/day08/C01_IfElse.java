@@ -23,6 +23,7 @@ public class C01_IfElse {
 			System.out.println("Girdiginiz " + karekter+ " bir harf degildir");
 			
 		}
+		scan.close();
 
 	}
 
